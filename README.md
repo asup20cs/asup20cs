@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @asup20cs
-- 👀 I’m interested in Cyber Security
+- 👀 I’m interested in DevOps
 - 🌱 I’m currently learning Computer Science Engineering
 - 💞️ I’m looking to collaborate on nothing
 - 📫 Don't Contact Me
