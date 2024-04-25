@@ -28,3 +28,12 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asup20cs&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="asup20cs" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asup20cs&show_icons=true&theme=tokyonight&locale=en" alt="asup20cs" /></p>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=asup20cs&theme=discord&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
