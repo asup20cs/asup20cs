@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/uashutoshk" target="blank"><img src="https://img.shields.io/twitter/follow/uashutoshk?logo=twitter&style=for-the-badge" alt="uashutoshk" /></a> </p>
 
-- 🔭 I’m currently working on [CurrencyDetection](https://github.com/asup20cs/CurrencyDetection)
+- 🔭 I’m currently working on [TutorialSite]([https://github.com/asup20cs/CurrencyDetection](https://github.com/asup20cs/dev-tutorials))
 
 - 🌱 I’m currently learning **Kubernetes, CI/CD**
 
